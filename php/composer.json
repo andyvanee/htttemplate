@@ -1,0 +1,12 @@
+{
+    "name": "andyvanee/htttemplate",
+    "authors": [
+        {
+            "name": "Andy VanEe",
+            "email": "1andyvanee@gmail.com"
+        }
+    ],
+    "require": {
+      "mustache/mustache": "2.7.0"
+    }
+}
